@@ -340,6 +340,31 @@
       "type": "shirt"
     },
     {
+      "id": "sotm-2022",
+      "name": "State of the Map 2022",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2022,
+      "location": "Florence, Italy",
+      "url": "https://2022.stateofthemap.org/",
+      "description": "The global OpenStreetMap conference was held in Italy for the second time.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Italy",
+      ],
+      "photos": [
+        {
+          "file": "sotm-2022.jpg",
+          "caption": "SotM 2022 shirt",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
       "id": "sotm-us-2022",
       "name": "State of the Map US 2022",
       "category": "event",
