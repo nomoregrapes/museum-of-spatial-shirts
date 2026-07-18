@@ -263,6 +263,32 @@
       "type": "shirt"
     },
     {
+      "id": "sotm-scotland-2015",
+      "name": "State of the Map 2015",
+      "category": "event",
+      "event": "State of the Map Scotland",
+      "year": 2015,
+      "location": "Edinburgh, UK",
+      "url": "https://wiki.openstreetmap.org/wiki/State_of_the_Map_Scotland_2015",
+      "description": "This was an unconference held very occasionally. The shirt shows roads and buildings of the city.",
+      "tags": [
+        "openstreetmap",
+        "sotms",
+        "conference",
+        "Scotland",
+        "United Kingdom"
+      ],
+      "photos": [
+        {
+          "file": "sotm-scotland-2015.jpg",
+          "caption": "SotM Scotland 2015 shirt",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
       "id": "sotm-2018",
       "name": "State of the Map 2018",
       "category": "event",
