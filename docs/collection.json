@@ -689,6 +689,35 @@
       ],
       "stories": [],
       "type": "shirt"
+    },
+    {
+      "id": "foss4g-2013",
+      "name": "FOSS4G 2013",
+      "category": "event",
+      "event": "FOSS4G",
+      "year": 2013,
+      "location": "Nottingham, UK",
+      "url": "https://2013.foss4g.org/",
+      "description": "The free and open source software for geo conference. The target is a reference to Robin Hood of the local Sherwood Forest.",
+      "tags": [
+        "conference",
+        "foss4g",
+        "United Kingdom"
+      ],
+      "photos": [
+        {
+          "file": "foss4g-2013-front.jpg",
+          "caption": "FOSS4G 2013 shirt (front)",
+          "credit": "Gregory Marler"
+        },
+        {
+          "file": "foss4g-2013-back.jpg",
+          "caption": "FOSS4G 2013 shirt (back)",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
     }
   ]
 }
