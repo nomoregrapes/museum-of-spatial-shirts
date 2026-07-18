@@ -228,6 +228,32 @@
       "type": "shirt"
     },
     {
+      "id": "sotm-2018",
+      "name": "State of the Map 2018",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2018,
+      "location": "Online",
+      "url": "https://2018.stateofthemap.org/",
+      "description": "This simple red shirt was worn by the team, with delegates receiving green t-shirts.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Italy",
+        "team"
+      ],
+      "photos": [
+        {
+          "file": "sotm-2018-team.jpg",
+          "caption": "SotM 2018 team shirt",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
       "id": "sotm-2020",
       "name": "State of the Map 2020",
       "category": "event",
