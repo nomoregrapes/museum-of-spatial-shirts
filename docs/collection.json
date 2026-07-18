@@ -289,6 +289,32 @@
       "type": "shirt"
     },
     {
+      "id": "sotm-2019",
+      "name": "State of the Map 2019",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2019,
+      "location": "Heidelberg, Germany",
+      "url": "https://2019.stateofthemap.org/",
+      "description": "Delegates wore maroon shirts, while the team had blue shirts.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Germany",
+        "team"
+      ],
+      "photos": [
+        {
+          "file": "sotm-2019-team.jpg",
+          "caption": "SotM 2019 team shirt",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
       "id": "sotm-2020",
       "name": "State of the Map 2020",
       "category": "event",
