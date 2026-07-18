@@ -228,12 +228,47 @@
       "type": "shirt"
     },
     {
+      "id": "sotm-2012",
+      "name": "State of the Map 2012",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2012,
+      "location": "Tokyo, Japan",
+      "url": "https://2012.stateofthemap.org/",
+      "description": "The front roughly translates to \"7 billion people, everyone, can be like Inō Tadataka\" and refers to the 17th century surveyor and map maker.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Japan"
+      ],
+      "photos": [
+        {
+          "file": "sotm-2012-front.jpg",
+          "caption": "SotM 2018 shirt (front)",
+          "credit": "Gregory Marler"
+        },
+        {
+          "file": "sotm-2012-back.jpg",
+          "caption": "SotM 2018 shirt (back)",
+          "credit": "Gregory Marler"
+        },
+        {
+          "file": "sotm-2012-side.jpg",
+          "caption": "SotM 2018 shirt (side)",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
       "id": "sotm-2018",
       "name": "State of the Map 2018",
       "category": "event",
       "event": "State of the Map",
       "year": 2018,
-      "location": "Online",
+      "location": "Milan, Italy",
       "url": "https://2018.stateofthemap.org/",
       "description": "This simple red shirt was worn by the team, with delegates receiving green t-shirts.",
       "tags": [
