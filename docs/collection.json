@@ -378,7 +378,7 @@
         "openstreetmap",
         "sotm",
         "conference",
-        "Italy",
+        "Italy"
       ],
       "photos": [
         {
@@ -713,6 +713,24 @@
         {
           "file": "foss4g-2013-back.jpg",
           "caption": "FOSS4G 2013 shirt (back)",
+          "credit": "Gregory Marler"
+        }
+      ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "craft-mapper",
+      "name": "Craft",
+      "category": "concept",
+      "description": "A blog post coigned \"craft mapper\" as a deogratory term to early OpenStreetMap contributiors who are stuck in their ways and slow to accept changes in tools and user demographics. A case of owning the term to stop it being an insult took place and these t-shirts were created and distributed. Both craft mappers and neo mappers need to continue to exists for OpenStreetMap to be successful, the definitions of each will vary depending on who you ask.",
+      "tags": [
+        "openstreetmap"
+      ],
+      "photos": [
+        {
+          "file": "craft-mapper2.jpg",
+          "caption": "Craft Mapper (2nd edition)",
           "credit": "Gregory Marler"
         }
       ],
