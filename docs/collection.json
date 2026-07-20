@@ -245,17 +245,17 @@
       "photos": [
         {
           "file": "sotm-2012-front.jpg",
-          "caption": "SotM 2018 shirt (front)",
+          "caption": "SotM 2012 shirt (front)",
           "credit": "Gregory Marler"
         },
         {
           "file": "sotm-2012-back.jpg",
-          "caption": "SotM 2018 shirt (back)",
+          "caption": "SotM 2012 shirt (back)",
           "credit": "Gregory Marler"
         },
         {
           "file": "sotm-2012-side.jpg",
-          "caption": "SotM 2018 shirt (side)",
+          "caption": "SotM 2012 shirt (side)",
           "credit": "Gregory Marler"
         }
       ],
@@ -387,6 +387,26 @@
           "credit": "Gregory Marler"
         }
       ],
+      "stories": [],
+      "type": "shirt"
+    },
+    {
+      "id": "sotm-2022-team",
+      "name": "State of the Map 2022 (team)",
+      "category": "event",
+      "event": "State of the Map",
+      "year": 2022,
+      "location": "Florence, Italy",
+      "url": "https://2022.stateofthemap.org/",
+      "description": "This is the shirt that volunteers wore at the OpenStreetMap conference.",
+      "tags": [
+        "openstreetmap",
+        "sotm",
+        "conference",
+        "Italy",
+        "team"
+      ],
+      "photos": [],
       "stories": [],
       "type": "shirt"
     },
